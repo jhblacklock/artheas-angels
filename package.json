@@ -1,0 +1,33 @@
+{
+  "name": "hub",
+  "version": "0.0.1",
+  "description": "simple HTML boilerplate",
+  "license": "commercial",
+  "private": "true",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.6.8",
+    "dataformat": "0.0.3",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-ignore": "^1.2.1",
+    "gulp-image-optimization": "^0.1.3",
+    "gulp-install": "^0.4.0",
+    "gulp-minify-css": "^1.2.2",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-sass": "^2.1.0",
+    "gulp-watch": "^4.3.5",
+    "merge2": "^0.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://templatedeck@bitbucket.org/templatedeck/hub.git"
+  },
+  "author": "Holger Koenemann"
+}
